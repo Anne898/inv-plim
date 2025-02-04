@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/cumple2.png");
+  background-image: url("images/cumple.png");
   background-position: 50% 50%;
 }
 
@@ -23,24 +23,24 @@
 }
 
 .u-section-1 .u-countdown-number-1 {
-  color: #ffffff;
+  color: rgb(255, 255, 255) !important;
 }
 
 .u-section-1 .u-countdown-number-2 {
-  color: #ffffff;
+  color: rgb(255, 255, 255) !important;
 }
 
 .u-section-1 .u-countdown-label-1 {
   font-size: 1rem;
   text-transform: uppercase;
-  color: #ffffff;
+  color: rgb(255, 255, 255) !important;
 }
 
 .u-section-1 .u-countdown-separator-1 {
   font-weight: 700;
   font-size: 1rem;
   line-height: 1;
-  color: #ffffff;
+  color: rgb(255, 255, 255) !important;
 }
 
 .u-section-1 .u-countdown-counter-2 {
@@ -50,28 +50,28 @@
 }
 
 .u-section-1 .u-countdown-number-3 {
-  color: #ffffff;
+  color: rgb(255, 255, 255) !important;
 }
 
 .u-section-1 .u-countdown-number-4 {
-  color: #ffffff;
+  color: rgb(255, 255, 255) !important;
 }
 
 .u-section-1 .u-countdown-number-5 {
-  color: #ffffff;
+  color: rgb(255, 255, 255) !important;
 }
 
 .u-section-1 .u-countdown-label-2 {
   font-size: 1rem;
   text-transform: uppercase;
-  color: #ffffff;
+  color: rgb(255, 255, 255) !important;
 }
 
 .u-section-1 .u-countdown-separator-2 {
   font-weight: 700;
   font-size: 1rem;
   line-height: 1;
-  color: #ffffff;
+  color: rgb(255, 255, 255) !important;
 }
 
 .u-section-1 .u-countdown-counter-3 {
@@ -81,25 +81,24 @@
 }
 
 .u-section-1 .u-countdown-number-6 {
-  color: #ffffff;
+  color: rgb(255, 255, 255) !important;
 }
 
 .u-section-1 .u-countdown-number-7 {
-  color: #ffffff;
+  color: rgb(255, 255, 255) !important;
 }
 
 .u-section-1 .u-countdown-label-3 {
   font-size: 1rem;
   text-transform: uppercase;
-  color: #ffffff;
- 
+  color: rgb(255, 255, 255) !important;
 }
 
 .u-section-1 .u-countdown-separator-3 {
   font-weight: 700;
   font-size: 1rem;
   line-height: 1;
-  color: #ffffff;
+  color: rgb(255, 255, 255) !important;
 }
 
 .u-section-1 .u-countdown-counter-4 {
@@ -109,24 +108,24 @@
 }
 
 .u-section-1 .u-countdown-number-8 {
-  color: #ffffff;
+  color: rgb(255, 255, 255) !important;
 }
 
 .u-section-1 .u-countdown-number-9 {
-  color: #ffffff;
+  color: rgb(255, 255, 255) !important;
 }
 
 .u-section-1 .u-countdown-label-4 {
   font-size: 1rem;
   text-transform: uppercase;
-  color: #ffffff;
+  color: rgb(255, 255, 255) !important;
 }
 
 .u-section-1 .u-countdown-separator-4 {
   font-weight: 700;
   font-size: 1rem;
   line-height: 1;
-  color: #ffffff;
+  color: rgb(255, 255, 255) !important;
 }
 
 .u-section-1 .u-countdown-counter-5 {
@@ -136,24 +135,24 @@
 }
 
 .u-section-1 .u-countdown-number-10 {
-  color: #ffffff;
+  color: rgb(255, 255, 255) !important;
 }
 
 .u-section-1 .u-countdown-number-11 {
-  color: #ffffff;
+  color: rgb(255, 255, 255) !important;
 }
 
 .u-section-1 .u-countdown-label-5 {
   font-size: 1rem;
   text-transform: uppercase;
-  color: #ffffff;
+  color: rgb(255, 255, 255) !important;
 }
 
 .u-section-1 .u-countdown-separator-5 {
   font-weight: 700;
   font-size: 1rem;
   line-height: 1;
-  color: #ffffff;
+  color: rgb(255, 255, 255) !important;
 }
 
 .u-section-1 .u-countdown-counter-6 {
@@ -163,24 +162,24 @@
 }
 
 .u-section-1 .u-countdown-number-12 {
-  color: #ffffff;
+  color: rgb(255, 255, 255) !important;
 }
 
 .u-section-1 .u-countdown-number-13 {
-  color: #ffffff;
+  color: rgb(255, 255, 255) !important;
 }
 
 .u-section-1 .u-countdown-label-6 {
   font-size: 1rem;
   text-transform: uppercase;
-  color: #ffffff;
+  color: rgb(255, 255, 255) !important;
 }
 
 .u-section-1 .u-btn-2 {
   background-image: none;
   font-weight: 400;
   font-size: 1rem;
-  box-shadow: 2px 2px 0px 0px rgba(163,85,89,1);
+  box-shadow: 2px 2px 0px 0px rgba(78,98,178,1);
   margin-bottom: 0;
   margin-top: 60px;
 }
@@ -190,7 +189,7 @@
   font-weight: 700;
   font-size: 1rem;
   --radius: 20px;
-  box-shadow: 2px 2px 0px 0px rgba(163,85,89,1);
+  box-shadow: 2px 2px 0px 0px rgba(78,98,178,1);
   margin: 1144px auto 0 443px;
   padding: 10px 55px;
 }
@@ -199,7 +198,7 @@
   background-image: none;
   font-weight: 400;
   font-size: 1rem;
-  box-shadow: 2px 2px 0px 0px rgba(163,85,89,1);
+  box-shadow: 2px 2px 0px 0px rgba(78,98,178,1);
   margin: 49px auto 60px 397px;
 }
 
@@ -242,17 +241,21 @@
 }
 
 @media (max-width: 575px) {
+   .u-section-1 {
+    background-size: cover;
+  }
+
   .u-section-1 .u-sheet-1 {
     min-height: 3600px;
   }
 
   .u-section-1 .u-btn-1 {
-    margin-top: 512px;
-    padding: 29px 110px 30px 109px;
+    margin-top: 812px;
+    padding: 38px 110px 39px 109px;
   }
 
   .u-section-1 .u-countdown-1 {
-    margin-top: 450px;
+    margin-top: 137px;
     margin-left: -28px;
     margin-right: -28px;
     padding: 38px 50px;
@@ -329,14 +332,14 @@
   .u-section-1 .u-btn-2 {
     font-weight: 700;
     --radius: 20px;
-    margin-top: 2058px;
+    margin-top: 1818px;
     margin-left: auto;
     margin-right: auto;
     padding: 10px 73px 10px 72px;
   }
 
   .u-section-1 .u-btn-3 {
-    margin-top: -137px;
+    margin-top: -127px;
     margin-left: auto;
     padding-right: 98px;
     padding-left: 97px;
@@ -345,7 +348,7 @@
   .u-section-1 .u-btn-4 {
     font-weight: 700;
     --radius: 20px;
-    margin-top: 133px;
+    margin-top: 113px;
     margin-left: auto;
     padding: 10px 22px 10px 20px;
   }
